@@ -1,4 +1,5 @@
 Object Oriented Project 2017-18
-Amicosante Andrea ( 246790 )
-D'alfonso Angelo  ( 249069 )
-Ravanetti Stefano ( 248035 )
+
+Amicosante Andrea, matr ( 246790 ), mail: andrea.amicosante@student.univaq.it
+D'alfonso Angelo, matr  ( 249069 ), mail: angelo.dalfonso@student.univaq.it
+Ravanetti Stefano, matr ( 248035 ), mail: stefano.ravanetti@student.univaq.it
