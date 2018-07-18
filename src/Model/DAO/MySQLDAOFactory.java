@@ -21,7 +21,7 @@ public class MySQLDAOFactory extends DAOFactory {
 	        Connection conn = null;
 	        try {
 	            Class.forName("com.mysql.jdbc.Driver");
-	            conn = (Connection) DriverManager.getConnection(DBURL, "root", "Angelo1297");
+	            conn = (Connection) DriverManager.getConnection(DBURL, "root", "password");
 	        } catch (SQLException e) {
 	            e.printStackTrace();
 	        } catch (ClassNotFoundException e) {
